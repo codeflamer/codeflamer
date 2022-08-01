@@ -1,4 +1,4 @@
-### Hi there, It's your favorite DEV eodeflamer 😎
+### Hi there, It's your favorite DEV Codeflamer 😎
 
 
 <!-- **codeflamer/codeflamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
