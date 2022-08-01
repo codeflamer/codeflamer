@@ -12,13 +12,13 @@
 - 💬 Ask me about ReactJS😉,Javascript and frontend basically
 - 📫 How to reach me: [Twitter - @codeflamer1](https://twitter.com/Codeflamer1) , [Email - emryzs01@gmail.com](mailto:emryzs01@gmail.com?body=Hello%20Tolulope,)
 - ⚡ Fun fact: I love playing video games especially fifa
-
+<!-- 
 <div>
 
 <a href="https://github.com/codeflamer">
  <img src="https://github-readme-stats.vercel.app/api?username=codeflamer&show_icons=true&theme=light&line_height=27" alt="Tolulope's github stats"/>
 </a>
-</div>
+</div> -->
 
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
