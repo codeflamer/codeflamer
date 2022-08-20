@@ -4,10 +4,11 @@
 <!-- **codeflamer/codeflamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
+**Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
 - 🔭 I’m currently working on [PayTrybe](https://www.paytrybe.com).
-- 🌱 I’m currently learning Solidity, Web3Development, Svelte.
+- 🌱 I’m currently learning Solidity, Web3Development, Svelte, Cloud Engineering.
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
 - 💬 Ask me about ReactJS😉,Javascript and frontend basically.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
