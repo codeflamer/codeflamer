@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Solidity, Web3Development, Svelte, Cloud Engineering.
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
 - 💬 Ask me about ReactJS, Svelte, Javascript,TypeScript and frontend basically.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 - ⚡ Fun fact: I love playing video games especially fifa.
 - 📫 How to reach me: [Twitter - @codeflamer1](https://twitter.com/Codeflamer1) , [Email - emryzs01@gmail.com](mailto:emryzs01@gmail.com?body=Hello%20Tolulope,)
 
