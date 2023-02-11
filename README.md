@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
-- 🌱 I’m currently learning Solidity, Web3Development, Svelte.
+- 🌱 I’m into Solidity, Web3Development, Svelte, React, Nextjs.
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
 - 💬 Ask me about ReactJS, Svelte, Javascript,TypeScript and frontend basically.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
