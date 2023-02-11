@@ -7,7 +7,6 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
-- 🔭 I’m currently working on [PayTrybe](https://www.paytrybe.com).
 - 🌱 I’m currently learning Solidity, Web3Development, Svelte.
 - 🤔 I’m looking for help with Mentorship, Internship or scholarship.
 - 💬 Ask me about ReactJS, Svelte, Javascript,TypeScript and frontend basically.
