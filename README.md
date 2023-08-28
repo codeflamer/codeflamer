@@ -1,4 +1,4 @@
-### Hi there, It's your favorite DEV Codeflamer🔥🔥
+### Hi there, It's your favorite Codeflamer🔥🔥, He puts things on Fire
 
 
 <!-- **codeflamer/codeflamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -7,12 +7,8 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
-- 🌱 I’m into Solidity, Web3Development, Svelte, React, Nextjs.
-- 🤔 I’m looking for help with Mentorship, Internship or scholarship.
-- 💬 Ask me about ReactJS, Svelte, Javascript,TypeScript and frontend basically.
-- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- ⚡ Fun fact: I love playing video games especially fifa.
-- 📫 How to reach me: [Twitter - @codeflamer1](https://twitter.com/Codeflamer1) , [Email - emryzs01@gmail.com](mailto:emryzs01@gmail.com?body=Hello%20Tolulope,)
+- 🌱 A human being, with huge dream
+
 
 ---
 
