@@ -1,4 +1,4 @@
-### Hi there, It's your favorite Codeflamer🔥🔥, He puts things on Fire
+### Hi there, It's your favorite Codeflamer🔥🔥, He sets things on Fire
 
 
 <!-- **codeflamer/codeflamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
