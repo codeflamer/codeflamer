@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him.
-- 🌱 A human being, with huge dream
+- 🌱 A human being, with big dream
 
 
 ---
