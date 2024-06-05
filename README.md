@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him.
+- 😊 Pronouns: async/await.
 - 🌱 A human being, with big dream
 
 
