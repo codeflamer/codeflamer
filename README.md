@@ -1,5 +1,6 @@
-### Hi there, It's your favorite Codeflamer🔥🔥, He sets things on Fire
+### Hi there, I am Taiwo Tolulope Ayodele
 
+<!-- An introduction about myself -->
 
 [![CodeFlamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflamer)](https://github.com/codeflamer/github-readme-stats)
 
