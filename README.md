@@ -24,7 +24,7 @@ I am always eager to expand my knowledge and explore new frameworks and technolo
 [![Tolulope's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflamer&show_icons=true&theme=transparent)](https://github.com/codeflamer/github-readme-stats)
 
 ### Top Languages 🔝
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeflamer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeflamer&layout=compact&theme=transparent)
 
 ## Connect with Me 🔗
 
