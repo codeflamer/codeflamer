@@ -21,10 +21,10 @@ I pride myself on being a versatile engineer with a keen interest in cutting-edg
 I am always eager to expand my knowledge and explore new frameworks and technologies that push the boundaries of what’s possible.
 
 ### Statistics 📈
-[![Tolulope's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflamer&show_icons=truetheme=radical)](https://github.com/codeflamer/github-readme-stats)
+[![Tolulope's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflamer&show_icons=true&theme=transparent)](https://github.com/codeflamer/github-readme-stats)
 
 ### Top Languages 🔝
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeflamer&layout=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeflamer&layout=compact)
 
 ## Connect with Me 🔗
 
